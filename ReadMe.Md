@@ -1,10 +1,10 @@
 #Qubit_Faruk
-Java 17
-- Spring Boot
-- Spring MVC
-- Spring Data
-- Spring Security
-- Spring Rest
+ - Java 17
+ - Spring Boot
+ - Spring MVC
+ - Spring Data
+ - Spring Security
+ - Spring Rest
 ##Lesson Steps
 > Spring MVC ->
 > Spring Data ->
